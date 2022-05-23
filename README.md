@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">A passionate game developer & software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **SignalR Library**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ybrk01@gmail.com**
 
