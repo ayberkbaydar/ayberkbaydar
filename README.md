@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 📫 How to reach me **ybrk01@gmail.com**
+- 📫 How to reach me **ayberkbaydar1995@gmail.com**
 
 - 📄 Know about my experiences/resumé [https://www.kariyer.net/ozgecmis/AyberkBaydarEn](https://www.kariyer.net/ozgecmis/AyberkBaydarEn)
 
