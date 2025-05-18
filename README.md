@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
-<h3 align="center">A software developer from Turkey</h3>
+<h3 align="center">A Test Automation Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Performance Testing** and developing an **AI-powered Agent** that can automatically generate test cases.
 
 - 📫 How to reach me **ayberkbaydar1995@gmail.com**
 
-- 📄 Know about my experiences/resumé [https://www.kariyer.net/ozgecmis/AyberkBaydarEn](https://www.kariyer.net/ozgecmis/AyberkBaydarEn)
+- 📄 Know about my experiences/resumé [https://www.kariyer.net/ozgecmis/AyberkBaydarTr](https://www.kariyer.net/ozgecmis/AyberkBaydarTr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
