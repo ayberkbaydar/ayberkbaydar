@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ayberkbaydar1995@gmail.com**
 
-- 📄 Know about my experiences/resumé [https://www.kariyer.net/ozgecmis/AyberkBaydar]([https://www.kariyer.net/ozgecmis/AyberkBaydarTr](https://www.kariyer.net/ozgecmis/ab2r9h9s4q6o))
+- 📄 Know about my experiences/resumé [https://www.kariyer.net/ozgecmis/AyberkBaydar](https://www.kariyer.net/ozgecmis/ab2r9h9s4q6o)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
