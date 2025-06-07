@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
-<h3 align="center">A Software Developer with Test Automation Background from Turkey</h3>
+<h3 align="center">A Software Developer from Turkey</h3>
 
 - 🌱 I’m currently working on backend development projects and building an **AI-based test case generation tool**.
 
